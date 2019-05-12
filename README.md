@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> c41fe41f404930302bcbc4e37ffdac746b2b0c01
 # Angular Basics
 
 This project demonstrates some basic principles of Angular in practice. Can be used to teach some basic ideas behind Angular.
@@ -31,10 +27,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-<<<<<<< HEAD
-=======
-=======
-# AngularBasics
-This project demonstrates some basic principles of Angular in practice. Can be used to teach some basic ideas behind Angular. Uses Angular 7.
->>>>>>> ee67b3f72d9e2cc9416ecada9a14099b6d56baa2
->>>>>>> c41fe41f404930302bcbc4e37ffdac746b2b0c01
